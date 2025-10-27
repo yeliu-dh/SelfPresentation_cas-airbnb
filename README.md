@@ -9,7 +9,7 @@ Basé sur la théorie du managment d'impression de Goffman, ce projet explore co
 - **Authenticité**  
 - **Sociabilité**
 
-### markering :
+### marketing :
 - **Auto-promotion**  
 - **Exemplarité**
   
