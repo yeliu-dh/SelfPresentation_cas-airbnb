@@ -8,13 +8,14 @@ Humanités numériques · Goffman · Présentation de soi · Managment d'impress
 
 ## 💡 5 tactiques identifiées :
 ### personnalité :
-- **Ouverture**  
-- **Authenticité**  
-- **Sociabilité**
+- **Ouverture** : 'open to different cultures', 'cosmopolitan','international view', 'cultural exchange'
+- **Authenticité** : 'personal life', 'life experiences', 'divers interests', 'hobbies', 'enjoy life'
+- **Sociabilité**: 'meet new people', 'welcoming', 'friendly', 'sociable', 'interpersonal interaction'
+
 
 ### marketing :
-- **Auto-promotion**  
-- **Exemplarité**
+- **Auto-promotion** : 'thoughtful service', 'attentive to needs', 'willing to help', 'responsive'
+- **Exemplarité** : 'fan of Airbnb', 'Airbnb community','love Airbnb', 'travel with Airbnb'
   
 
 ## 📊 Résultats principaux
